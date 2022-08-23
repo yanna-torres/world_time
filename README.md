@@ -8,4 +8,6 @@ This project was construted following the series of videos tutorial for begginer
 
 <!-- ![Screenshot of the app ](image.png) -->
 
+<div align="center" name="inicio">
 <img src="image.png" alt="alt text" width="200"/>
+</div>
